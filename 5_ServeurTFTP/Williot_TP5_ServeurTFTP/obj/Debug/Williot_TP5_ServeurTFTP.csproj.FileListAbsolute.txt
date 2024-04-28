@@ -1,0 +1,8 @@
+E:\2e année bts\projet a faire\cuypers\Williot_TP5_ServeurTFTP\Williot_TP5_ServeurTFTP\obj\Debug\Williot_TP5_ServeurTFTP.csproj.AssemblyReference.cache
+E:\2e année bts\projet a faire\cuypers\Williot_TP5_ServeurTFTP\Williot_TP5_ServeurTFTP\obj\Debug\Williot_TP5_ServeurTFTP.csproj.SuggestedBindingRedirects.cache
+E:\2e année bts\projet a faire\cuypers\Williot_TP5_ServeurTFTP\Williot_TP5_ServeurTFTP\obj\Debug\Williot_TP5_ServeurTFTP.csproj.CoreCompileInputs.cache
+E:\2e année bts\projet a faire\cuypers\Williot_TP5_ServeurTFTP\Williot_TP5_ServeurTFTP\bin\Debug\Williot_TP5_ServeurTFTP.exe.config
+E:\2e année bts\projet a faire\cuypers\Williot_TP5_ServeurTFTP\Williot_TP5_ServeurTFTP\bin\Debug\Williot_TP5_ServeurTFTP.exe
+E:\2e année bts\projet a faire\cuypers\Williot_TP5_ServeurTFTP\Williot_TP5_ServeurTFTP\bin\Debug\Williot_TP5_ServeurTFTP.pdb
+E:\2e année bts\projet a faire\cuypers\Williot_TP5_ServeurTFTP\Williot_TP5_ServeurTFTP\obj\Debug\Williot_TP5_ServeurTFTP.exe
+E:\2e année bts\projet a faire\cuypers\Williot_TP5_ServeurTFTP\Williot_TP5_ServeurTFTP\obj\Debug\Williot_TP5_ServeurTFTP.pdb
